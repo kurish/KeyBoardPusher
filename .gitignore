@@ -2,6 +2,8 @@
 bin/
 bin-debug/
 bin-release/
+arch/
+download/
 
 # Other files and folders
 .settings/
