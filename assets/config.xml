@@ -15,12 +15,15 @@
 
 	</preload>
 	<assets>
-		<asset id="warehouse" url="content.swf"/>
-		<asset id="dolphin" url="top_dolphin_facts_2.jpg"/>
-		<asset id="dolphin1" url="http://bm.img.com.ua/berlin/storage/orig/6/10/55e673f39357f65da60ac5f0c8663106.jpg"/>
-		<asset id="dolphin2" url="http://www.ejin.ru/uploads/posts/2012-03/3b4a1c1cc0c2af8e8522e3ad4c71e1a4cc3cb8ae.jpg"/>
+		<asset id="warehouse" url="content.swf" type="library"/>
 	</assets>
 	<params>
 		<volume>70</volume>
 	</params>
+	<levels>
+		<level id="1" xmlUrl="data/levels/1.xml"/>
+		<level id="2" xmlUrl="data/levels/2.xml"/>
+		<level id="3" xmlUrl="data/levels/3.xml"/>
+		<level id="4" xmlUrl="data/levels/4.xml"/>
+	</levels>
 </config>

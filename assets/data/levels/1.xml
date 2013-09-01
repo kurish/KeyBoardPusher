@@ -1,0 +1,7 @@
+<level>
+	<letters>F,G,J,K</letters>
+	<rounds>20</rounds>
+	<errors>3</errors>
+	<timeout>2</timeout>
+	<scorePerLetter>145</scorePerLetter>
+</level>
